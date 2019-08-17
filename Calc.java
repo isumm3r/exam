@@ -30,6 +30,7 @@ public class Calc {
             }
 
             System.out.println(agregate);
+            System.out.println("Ready");
         }
     }
 
